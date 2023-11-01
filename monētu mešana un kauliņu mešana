@@ -1,0 +1,5 @@
+monētu mešana un kauliņu mešana 
+
+1) lietones funkcionalitate ir kauļinu un monetu mešana
+2) ir poga kura slēdži maina mešanas režimu (monetu vai kauļiņu), kura atrodas kreisa augšajā pusē. Ir logs ar mešanas animaciju, kurš atrodas ekranā vidū. Ir poga kura saka monetu vai kauliņu mešanu, kura atrodas zem loga ar animaciju. 
+3) Ja lietotais nospiež režimas maiņas pogu, tad mainas mešanas režims (no kauliņa uz monetu vai no kauliņas uz monetu). 
